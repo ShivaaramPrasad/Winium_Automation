@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9657" started-at="2021-05-21T17:42:49 IST" finished-at="2021-05-21T17:42:59 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9657" started-at="2021-05-21T17:42:49 IST" finished-at="2021-05-21T17:42:59 IST">
+      <class name="com.fridaytalks.Notepad">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.fridaytalks.Notepad@27a8c74e]" name="setup" is-config="true" duration-ms="1745" started-at="2021-05-21T17:42:49 IST" finished-at="2021-05-21T17:42:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="EnterTimeAndDate()[pri:0, instance:com.fridaytalks.Notepad@27a8c74e]" name="EnterTimeAndDate" duration-ms="7850" started-at="2021-05-21T17:42:51 IST" finished-at="2021-05-21T17:42:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterTimeAndDate -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.fridaytalks.Notepad@27a8c74e]" name="close" is-config="true" duration-ms="117" started-at="2021-05-21T17:42:59 IST" finished-at="2021-05-21T17:42:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.fridaytalks.Notepad -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
